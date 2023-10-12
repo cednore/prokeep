@@ -22,7 +22,7 @@ module.exports = {
 	},
 	plugins: ['react', 'jest'],
 	rules: {
-		'react/prop-types': false,
+		'react/prop-types': 0,
 		'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
 	},
 };
