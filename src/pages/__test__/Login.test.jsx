@@ -7,8 +7,8 @@ import {
 } from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
 import axios from 'axios';
-import Login from '../Login';
 import React from 'react';
+import Login from '../Login';
 
 jest.mock('axios');
 
