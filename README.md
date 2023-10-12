@@ -45,7 +45,7 @@ Clone this repository and run the following commands:
 
 ## Live Demo
 
-You can view a live demo and play with the application by clicking [here](https://codesandbox.io/p/github/cednore/prokeep/master?workspaceId=61338e24-a56b-40ce-8310-33480e362b73).
+You can view a live demo and play with the application by clicking [here](https://phillip-prokeep-assignment.netlify.app/).
 
 ## Contact
 
